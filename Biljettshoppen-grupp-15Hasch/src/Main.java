@@ -21,7 +21,7 @@ public class Main {
 
         //System.out.println(shittyDay.pris() + "kr");
 
-        shittyDay = new Chair(new EmailBiljett(new Bench(new Insurance(new KontoBiljett(new FysiskBiljett(new EventImplementation()))))));
+        //shittyDay = new Chair(new EmailBiljett(new Bench(new Insurance(new KontoBiljett(new FysiskBiljett(new EventImplementation()))))));
         //shittyDay = new EmailBiljett(new EventImplementation());
         //shittyDay = new Chair(new EventImplementation());
         System.out.println(shittyDay.pris() + "kr");
